@@ -1,0 +1,2 @@
+table_add MyIngress.ipv4_lpm MyIngress.ipv4_forward 169.254.21.222/32 => e4:5f:01:8c:7e:52 0  
+table_add MyIngress.ipv4_lpm MyIngress.ipv4_forward 169.254.18.165/32 => e4:5f:01:8d:d2:a6 1 
